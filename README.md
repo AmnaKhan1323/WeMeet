@@ -1,14 +1,25 @@
-# WeMeet
-A real time messaging & video calling. 
+# 📹 WeMeet
 
+A video meeting and collaboration web app with lobby and room pages, built as a WebRTC-style meeting experience.
 
+## ✨ Features
 
-# Installation
-* 1 - clone repo 
-* 2 - Create an account on agora.io and create an app to generate an APP ID
-* 3 - Update APP ID, Temp Token and Channel Name in room_rtc.js
-```javascript
-let APP_ID = "YOU-APP-ID"
+- Lobby page for joining a meeting
+- Dedicated room page for the live meeting session
+- Client-side JavaScript for meeting/room logic
+
+## 🧰 Tech Stack
+
+HTML, CSS, JavaScript
+
+## 🚀 Getting Started
+
+```bash
+git clone https://github.com/AmnaKhan1323/WeMeet.git
+cd WeMeet
+# Open lobby.html in your browser to start
 ```
 
+## 📋 License
 
+Open source under the [MIT License](LICENSE).
